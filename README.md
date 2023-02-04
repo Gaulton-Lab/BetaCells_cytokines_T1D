@@ -5,7 +5,7 @@ Benaglio,Zhu,Okino et al. *Cell Genomics*, December 2022.\
 https://www.sciencedirect.com/science/article/pii/S2666979X22001677?via%3Dihub
 
 \
-Data available at: https://zenodo.org/record/7106728\
+Data available at: https://zenodo.org/record/7106728
 
 Graphical Abstract:\
 ![Fig_1](https://user-images.githubusercontent.com/9814775/216677606-798aab6c-00fb-4eac-86ff-166304c7ae1b.png)
